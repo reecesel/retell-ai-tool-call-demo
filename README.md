@@ -2,10 +2,11 @@ This repo contains a sample, simple FastAPI application that is used as the back
 
 The video is available at this link:
 
-https://www.youtube.com/@reecepiccolo-sellin5232
+- https://www.youtube.com/@reecepiccolo-sellin5232
 
 Links mentioned in video:
 
-https://platform.openai.com/docs/guides/function-calling
-https://gitlab.com/dword4/nhlapi
+- https://platform.openai.com/docs/guides/function-calling
+
+- https://gitlab.com/dword4/nhlapi
 
