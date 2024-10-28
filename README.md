@@ -1,4 +1,4 @@
-This repo contains a sample, simple FastAPI application that is used as the backend for a simple demo in how to do tool calling within Retell AI.  
+This repo contains a sample, simple FastAPI application that is used as the backend for a simple demo in how to do tool calling within Retell AI (https://www.retellai.com).  
 
 The video is available at this link:
 
