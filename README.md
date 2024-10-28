@@ -2,7 +2,7 @@ This repo contains a sample, simple FastAPI application that is used as the back
 
 The video is available at this link:
 
-- https://www.youtube.com/@reecepiccolo-sellin5232
+- https://www.youtube.com/watch?v=X5oqfG9OIA4
 
 Links mentioned in video:
 
